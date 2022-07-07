@@ -9,18 +9,17 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/login.css">
 </head>
-
 <body>
 	<div class="wrapper">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 firstContainer">
-					<img src="img/app-feautures.png" alt="[+]" class="rounded d-block w-100">
+					<img src="assets/images/model1.jpg" alt="[+]" class="rounded d-block w-100">
 				</div>
 				<div class="col-md-6 text-center secondContainer">
 					<div class="card">
 						<div class="py-3 px-2">
-							<img src="img/instagram-logo.png" alt="card-img-top">
+							<img src="assets/images/insta.png" alt="card-img-top">
 						</div>
 						<div class="card-body">
 							<form method="post">
@@ -39,7 +38,7 @@
 							</div>
 							<div class="otherMethods">
 								<div class="secondaryColor">
-									<img src="img/facebook-logo.png" class="img-fluid rounded" alt="[+]"
+									<img src="assets/images/model1.jpg" class="img-fluid rounded" alt="[+]"
 										style="width: 18px;height: 18px">
 									<span class="ms-2">Login with Facebook</span>
 								</div>
@@ -54,9 +53,9 @@
 					</div>
 					<span class="primaryColor">Get the App</span>
 					<div class="row py-2">
-						<div class="col-6"><img src="img/playstore.png" alt="[+]" class="img-fluid d-block rounded" />
+						<div class="col-6"><img src="assets/images/model1.jpg" alt="[+]" class="img-fluid d-block rounded" />
 						</div>
-						<div class="col-6"><img src="img/appstore.png" alt="[+]" class="img-fluid d-block rounded" />
+						<div class="col-6"><img src="assets/images/model1.jpg" alt="[+]" class="img-fluid d-block rounded" />
 						</div>
 					</div>
 				</div>
