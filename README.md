@@ -1,3 +1,10 @@
-# Instagram-Clone
 
-  This is an simple Instagram clone using HTML,CSS and PHP
+# Instagram Clone
+
+          This is a very simple
+          instagram clone using  
+              HTML and CSS 
+            Very First Clone
+
+    
+Nothing more Special Only Frontend
